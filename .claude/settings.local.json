@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sqlite3 --version)",
+      "Bash(sqlite3 \"C:/Users/rberg/Documents/projects/ozian/forge/flashcards/forge.db\")",
+      "Bash(sqlite3 \"C:/Users/rberg/Documents/projects/ozian/forge/flashcards/forge.db\" \".schema flashcards\")"
+    ]
+  }
+}
