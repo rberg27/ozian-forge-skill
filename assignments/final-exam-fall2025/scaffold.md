@@ -59,18 +59,18 @@
 - [x] `gap` — **Treasury stock**: Previously issued shares repurchased — contra-equity at cost; reduces shares outstanding, not shares issued. → **III.7, III.8**
 - [x] `gap` — **Avoidable vs. unavoidable costs**: Only avoidable costs + opportunity cost differ between alternatives and belong in a make-buy / keep-drop decision. → **IV.1**
 - [x] `gap` — **Contribution margin**: Price − variable cost (per unit or in total); covers fixed costs first, then profit. → **IV.2**
-- [ ] `not assessed` — **Plantwide (single-driver) OH rate vs. ABC**: Single rate spreads all OH via one driver (usually DLH); ABC uses multiple pools and drivers. → **IV.3A, IV.3B, IV.3D**
-- [ ] `not assessed` — **Cost distortion / cross-subsidy**: Single-driver systems over-cost products that consume lots of the driver and under-cost products that consume little — cross-subsidizing through OH. → **IV.3D**
-- [ ] `not assessed` — **Transfer price — general rule**: TP = variable cost + opportunity cost of the selling division (= external market price when the division is at capacity). → **V.1**
-- [ ] `not assessed` — **Tax-motivated transfer pricing**: In a multi-jurisdiction firm, TP shifts income across tax rates — raising firm profit only if rates differ and the firm can legally set the price. → **V.4**
+- [x] `gap` — **Plantwide (single-driver) OH rate vs. ABC**: Single rate spreads all OH via one driver (usually DLH); ABC uses multiple pools and drivers. → **IV.3A, IV.3B, IV.3D**
+- [x] `gap` — **Cost distortion / cross-subsidy**: Single-driver systems over-cost products that consume lots of the driver and under-cost products that consume little — cross-subsidizing through OH. → **IV.3D**
+- [x] `understood` — **Transfer price — general rule**: TP = variable cost + opportunity cost of the selling division (= external market price when the division is at capacity). → **V.1**
+- [x] `understood` — **Tax-motivated transfer pricing**: In a multi-jurisdiction firm, TP shifts income across tax rates — raising firm profit only if rates differ and the firm can legally set the price. → **V.4**
 
 ## Understand (mechanics & judgments)
 
-- [ ] `not assessed` — **Why cash payment is constant for bonds but not always for mortgages**: Bonds pay coupon = stated-rate × face (fixed dollar amount each period); mortgages typically pay a constant *total* payment split between interest and principal (principal portion grows). → **I.2**
-- [ ] `not assessed` — **Why book value of debt on balance sheet is PV at original effective rate**: Amortized cost locks in the rate at issuance so that interest expense reflects the true cost at that time. Subsequent market moves don't flow through. → **I.2, I.4B**
-- [ ] `not assessed` — **How to infer issue price sign (par/discount/premium)**: Compare the coupon rate printed in the indenture to the market rate at issuance (use the issue-date market data if given, else reason from the issue price relative to face). → **I.3**
-- [ ] `not assessed` — **Gain/loss on early retirement**: Gain if cash paid < book value; loss if cash paid > book value. FV > book value → loss on retirement. → **I.4B**
-- [ ] `not assessed` — **Journal entry at issuance (premium/discount)**: DR Cash (proceeds), CR Bonds Payable (face), DR/CR Discount/Premium plug. → **I.5**
+- [x] `understood` — **Why cash payment is constant for bonds but not always for mortgages**: Bonds pay coupon = stated-rate × face (fixed dollar amount each period); mortgages typically pay a constant *total* payment split between interest and principal (principal portion grows). → **I.2**
+- [x] `gap` — **Why book value of debt on balance sheet is PV at original effective rate**: Amortized cost locks in the rate at issuance so that interest expense reflects the true cost at that time. Subsequent market moves don't flow through. → **I.2, I.4B**
+- [x] `understood` — **How to infer issue price sign (par/discount/premium)**: Compare the coupon rate printed in the indenture to the market rate at issuance (use the issue-date market data if given, else reason from the issue price relative to face). → **I.3**
+- [x] `gap` — **Gain/loss on early retirement**: Gain if cash paid < book value; loss if cash paid > book value. FV > book value → loss on retirement. → **I.4B**
+- [x] `gap` — **Journal entry at issuance (premium/discount)**: DR Cash (proceeds), CR Bonds Payable (face), DR/CR Discount/Premium plug. → **I.5**
 - [ ] `not assessed` — **Semi-annual interest JE**: DR Interest Expense (book value × effective rate / 2); CR Cash (face × coupon / 2); DR/CR Discount/Premium amortization plug. → **I.6**
 - [ ] `not assessed` — **Effective-tax-rate bridge**: Statutory rate + permanent differences + state tax + other items = ETR. Nondeductible items push ETR up. → **II.3**
 - [ ] `not assessed` — **Gross-up from DTA/DTL to underlying difference**: Underlying book-tax difference = DTA (or DTL) ÷ statutory rate. → **II.4, II.6**

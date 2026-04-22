@@ -2,6 +2,31 @@
 
 *Gaps identified during Socratic dialogue sessions. Populate as you work through `/forge`.*
 
+## Journal entry at bond issuance — discount and premium (Understand)
+**Gap:** Had the structure but put discount on the wrong side (credit) and called it "Discount Expense." Didn't know the account name or type.
+**Teaching:** Discount bond: DR Cash (proceeds) / DR Discount on Bonds Payable (contra-liability = face − proceeds) / CR Bonds Payable (face). Premium bond: DR Cash (proceeds) / CR Premium on Bonds Payable (proceeds − face) / CR Bonds Payable (face).
+**Verified:** yes — restated both entries correctly.
+
+## Gain/loss on early retirement (Understand)
+**Gap:** Initially confused issuer vs. investor perspective — thought rates down = gain. Needed prompting on whose perspective matters.
+**Teaching:** Gain (Loss) = Carrying Value − Cash Paid. Company pays fair value to retire. Rates down → fair value up → cash paid > carrying value → loss. Rates up → fair value down → cash paid < carrying value → gain.
+**Verified:** yes — self-corrected after perspective prompt.
+
+## Why carrying value is locked at original effective rate (Understand)
+**Gap:** Had the mechanics (carrying value accretes toward face) but not the GAAP rationale.
+**Teaching:** The company's obligation is always face value at maturity — it never changes. GAAP uses amortized cost because it reflects the actual contracted obligation. Updating to fair value each period would create balance sheet volatility from market rate swings the company never has to settle.
+**Verified:** yes
+
+## Cost distortion / cross-subsidy (Remember)
+**Gap:** Didn't know the term, needed a concrete scenario prompt to engage.
+**Teaching:** Plantwide rate over-charges products that consume lots of the driver (DLH) but little of other overhead activities, and under-charges products that use few labor hours but consume expensive activities (like setups). The high-DLH product subsidizes the high-setup product — cost distortion / cross-subsidy.
+**Verified:** yes — reasoned through the cross-subsidy insight independently once given the scenario.
+
+## Plantwide OH rate vs. ABC (Remember)
+**Gap:** No prior knowledge. Didn't know ABC = Activity-Based Costing or what cost pools are.
+**Teaching:** Plantwide rate: one driver (usually DLH) allocates ALL overhead to products — simple but distorts when products consume resources differently. ABC: separate cost pools per activity (setups, machine hours, packaging), each with its own driver. Products charged based on actual driver usage per activity.
+**Verified:** yes
+
 ## Contribution margin (Remember)
 **Gap:** Initially called it "profit per unit." Didn't know fixed costs were excluded. Needed prompting to identify that variable costs are subtracted and fixed costs are what CM covers first.
 **Teaching:** CM = price − variable cost per unit. Total CM covers fixed costs first; remainder is profit. It is not profit — it is the per-unit amount available to cover fixed costs and eventually generate profit.
