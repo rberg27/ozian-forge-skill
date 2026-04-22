@@ -2,9 +2,9 @@
 
 ## Skills
 
-- `/forge` — Assignment intake + Socratic dialogue (skill at `~/.claude/skills/forge/`)
-- `/forge-quiz` — Daily spaced repetition quiz (skill at `~/.claude/skills/forge-quiz/`)
-- `/forge-review` — Browse learning progress (skill at `~/.claude/skills/forge-review/`)
+- `/forge` — Assignment intake + Socratic dialogue (skill at `.claude/skills/forge/SKILL.md`, installed to `~/.claude/skills/forge/`)
+- `/forge-quiz` — Daily spaced repetition quiz (skill at `.claude/skills/forge-quiz/SKILL.md`, installed to `~/.claude/skills/forge-quiz/`)
+- `/forge-review` — Browse learning progress (skill at `.claude/skills/forge-review/SKILL.md`, installed to `~/.claude/skills/forge-review/`)
 
 ## Scheduled Tasks
 

@@ -29,7 +29,17 @@
       "Bash(sqlite3 \"C:/Users/rberg/Documents/projects/ozian/forge/flashcards/forge.db\" \"INSERT INTO flashcards \\(assignment, concept, bloom_level, question, answer, teaching_note, next_review\\) VALUES \\('corporate-finance-hw5', 'D/E as Amplification Factor', 'understand', 'Why is the debt-to-equity ratio the exact proportionality factor for how leverage amplifies equity returns and risk?', 'Debt payments are fixed, so any change in asset returns flows entirely to equity holders. But equity is only a fraction of total value. If assets earn 1% more on \\\\$100 total, that extra \\\\$1 goes entirely to equity holders who only invested \\\\$40 \\(if D/E=1.5\\). So equity return jumps by 1/40 = 2.5% — amplified by \\(1 + D/E\\). The D/E ratio is the amplification factor because equity is the smaller base absorbing all the volatility. This is the same derivation as MM Prop II.', 'User applied prior learning about leverage and equity risk. Was shaky on WHY D/E is the exact multiplier — taught via concrete example showing extra return flowing to smaller equity base.', datetime\\('now', '+1 day'\\)\\);\")",
       "Bash(sqlite3 \"C:/Users/rberg/Documents/projects/ozian/forge/flashcards/forge.db\" \"INSERT INTO flashcards \\(assignment, concept, bloom_level, question, answer, teaching_note, next_review\\) VALUES \\('corporate-finance-hw5', 'Why WACC < r_U', 'understand', 'Why is WACC lower than the unlevered cost of capital \\(r_U\\) when there are taxes?', 'WACC is lower because interest on debt is tax-deductible. This reduces the effective cost of debt from r_D to r_D x \\(1 - Tax Rate\\) in the WACC formula. The government subsidizes part of the interest cost through the tax deduction, pulling the blended cost of capital below what it would be without the tax benefit. Without taxes, WACC = r_U exactly.', 'User went through several attempts: first said debt is subsidized \\(vague\\), then interest is waived \\(wrong — lender gets full payment\\), then debt is non-taxable \\(imprecise\\). Final correct answer: interest on debt is tax-deductible.', datetime\\('now', '+1 day'\\)\\);\")",
       "Bash(sqlite3:*)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(npm --version)",
+      "Bash(npx --yes serve -l 5173 .)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/forge-mockup.jsx)",
+      "Bash(git *)",
+      "Bash(cp \"C:/Users/rberg/.claude/skills/forge/SKILL.md\" \".claude/skills/forge/SKILL.md\")",
+      "Bash(cp \"C:/Users/rberg/.claude/skills/forge-quiz/SKILL.md\" \".claude/skills/forge-quiz/SKILL.md\")",
+      "Bash(cp \"C:/Users/rberg/.claude/skills/forge-review/SKILL.md\" \".claude/skills/forge-review/SKILL.md\")"
     ]
   }
 }

@@ -21,11 +21,11 @@
 
 ## Remember
 
-- [ ] `not assessed` — **Treasury stock — definition**: What treasury stock is and why it's a contra-equity account. → **P1, P2**
-- [ ] `not assessed` — **RSU — definition**: What a service-based restricted stock unit is and how it vests. → **P3, P4, P5**
-- [ ] `not assessed` — **Contribution margin — definition**: Revenue minus variable costs, per unit or in total. → **P7, P8, P10**
-- [ ] `not assessed` — **Fixed vs. variable costs**: How each behaves with volume; direct vs. indirect fixed costs. → **P7, P9**
-- [ ] `not assessed` — **Differential (incremental) analysis — definition**: Comparing only the costs/revenues that differ between alternatives. → **P7, P9, P10**
+- [x] `gap` — **Treasury stock — definition**: What treasury stock is and why it's a contra-equity account. → **P1, P2**
+- [x] `gap` — **RSU — definition**: What a service-based restricted stock unit is and how it vests. → **P3, P4, P5**
+- [x] `gap` — **Contribution margin — definition**: Revenue minus variable costs, per unit or in total. → **P7, P8, P10**
+- [x] `gap` — **Fixed vs. variable costs**: How each behaves with volume; direct vs. indirect fixed costs. → **P7, P9**
+- [x] `gap` — **Differential (incremental) analysis — definition**: Comparing only the costs/revenues that differ between alternatives. → **P7, P9, P10**
 
 ## Understand
 

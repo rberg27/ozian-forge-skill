@@ -54,11 +54,11 @@
 - [x] `gap` — **NOL carryforward**: Prior-year tax losses that offset future taxable income. DTA = NOL × statutory rate. → **II.4**
 - [x] `gap` — **Grant-date fair value method**: Stock-option comp expense is fixed at grant (not remeasured) and recognized over the vesting period. → **III.2, III.3**
 - [x] `gap` — **Dividends declared vs. paid**: Declaration creates the liability and reduces RE; payment reduces cash and the liability. → **III.4** 
-- [ ] `not assessed` — **Dilutive securities**: Securities that, if converted/exercised, increase shares outstanding and reduce EPS (options, RSUs, PSUs, convertibles). → **III.5**
-- [ ] `not assessed` — **Stock dividend (small, <25%)**: Capitalize FV into common stock/APIC from RE; no cash, no total-equity change, but share count grows. → **III.6**
-- [ ] `not assessed` — **Treasury stock**: Previously issued shares repurchased — contra-equity at cost; reduces shares outstanding, not shares issued. → **III.7, III.8**
-- [ ] `not assessed` — **Avoidable vs. unavoidable costs**: Only avoidable costs + opportunity cost differ between alternatives and belong in a make-buy / keep-drop decision. → **IV.1**
-- [ ] `not assessed` — **Contribution margin**: Price − variable cost (per unit or in total); covers fixed costs first, then profit. → **IV.2**
+- [x] `understood` — **Dilutive securities**: Securities that, if converted/exercised, increase shares outstanding and reduce EPS (options, RSUs, PSUs, convertibles). → **III.5**
+- [x] `gap` — **Stock dividend (small, <25%)**: Capitalize FV into common stock/APIC from RE; no cash, no total-equity change, but share count grows. → **III.6**
+- [x] `gap` — **Treasury stock**: Previously issued shares repurchased — contra-equity at cost; reduces shares outstanding, not shares issued. → **III.7, III.8**
+- [x] `gap` — **Avoidable vs. unavoidable costs**: Only avoidable costs + opportunity cost differ between alternatives and belong in a make-buy / keep-drop decision. → **IV.1**
+- [x] `gap` — **Contribution margin**: Price − variable cost (per unit or in total); covers fixed costs first, then profit. → **IV.2**
 - [ ] `not assessed` — **Plantwide (single-driver) OH rate vs. ABC**: Single rate spreads all OH via one driver (usually DLH); ABC uses multiple pools and drivers. → **IV.3A, IV.3B, IV.3D**
 - [ ] `not assessed` — **Cost distortion / cross-subsidy**: Single-driver systems over-cost products that consume lots of the driver and under-cost products that consume little — cross-subsidizing through OH. → **IV.3D**
 - [ ] `not assessed` — **Transfer price — general rule**: TP = variable cost + opportunity cost of the selling division (= external market price when the division is at capacity). → **V.1**

@@ -2,6 +2,26 @@
 
 *Gaps identified during Socratic dialogue sessions. Populate as you work through `/forge`.*
 
+## Contribution margin (Remember)
+**Gap:** Initially called it "profit per unit." Didn't know fixed costs were excluded. Needed prompting to identify that variable costs are subtracted and fixed costs are what CM covers first.
+**Teaching:** CM = price − variable cost per unit. Total CM covers fixed costs first; remainder is profit. It is not profit — it is the per-unit amount available to cover fixed costs and eventually generate profit.
+**Verified:** yes
+
+## Avoidable vs. unavoidable costs (Remember)
+**Gap:** Initially said avoidable = variable. Needed prompting to recognize fixed costs can also be avoidable.
+**Teaching:** The test is not variable vs. fixed — it's whether the cost changes between alternatives. Avoidable = disappears under one choice. Unavoidable = same regardless of the decision. Either type can be fixed or variable.
+**Verified:** yes
+
+## Treasury stock (Remember)
+**Gap:** Initially defined as "outstanding shares that are issued" — backwards. Needed prompting to arrive at the correct definition.
+**Teaching:** Treasury stock = previously issued shares repurchased by the company. No longer outstanding. Contra-equity on the balance sheet (negative within stockholders' equity). Reduces shares outstanding → increases EPS.
+**Verified:** yes
+
+## Stock dividend — small (<25%) (Remember)
+**Gap:** No prior knowledge of journal entry or size significance.
+**Teaching:** Stock dividend: DR RE (FMV of shares issued) / CR Common Stock (par value) / CR APIC (excess). Total equity unchanged — reclassification within equity. Share count increases. ROE unaffected (NI and total equity both unchanged).
+**Verified:** yes — restated JE correctly including the par/APIC split.
+
 ## Dividends declared vs. paid (Remember)
 **Gap:** No prior knowledge of journal entries or statement locations.
 **Teaching:** Declaration: DR Retained Earnings / CR Dividends Payable (creates liability, reduces equity). Payment: DR Dividends Payable / CR Cash (eliminates liability). Declared → Statement of Equity and Income Statement. Paid → Cash Flow Statement (financing). Key: timing difference means these can appear in different periods.
